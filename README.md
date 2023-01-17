@@ -13,6 +13,8 @@ Ecommerce Backend Demo
 
 [Screenshot](#screenshots)
 
+[Walkthrough](#walkthrough)
+
 [Contributors](#contributors)
 
 [Questions](#questions)
@@ -31,6 +33,10 @@ For a business that wants to keeo track of it's products using categories and pr
 
 
 ![alt text](./assets/screenshots/screenshot.png)
+
+
+## Walkthrough 
+https://drive.google.com/file/d/1gy5eligiqm3WK2BicSlGD0fXmIAY8hgP/view
 
 ## Contribution
 Mohammad Komol Hasan
